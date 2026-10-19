@@ -1,0 +1,7 @@
+{
+  "name": "Harmonik Seri Hesaplayıcı & Java Kodu",
+  "description": "Girilen sayının harmonik serisini hesaplayan interaktif araç ve Java kaynak kodları (Enes Öztürk imzalı).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
